@@ -1,1 +1,1 @@
-My tasks for the first section
+C programming task
