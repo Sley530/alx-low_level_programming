@@ -1,1 +1,1 @@
-My first C programming at ALX SE program.
+My first C program at ALX SE program.
