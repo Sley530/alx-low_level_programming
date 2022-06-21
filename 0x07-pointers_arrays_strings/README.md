@@ -1,0 +1,1 @@
+My seventh pointers task
