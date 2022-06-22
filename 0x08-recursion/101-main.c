@@ -18,7 +18,7 @@ int main(void)
     printf("%d\n", r);
     r = wildcmp("main.c", "m*c");
     printf("%d\n", r);
-    r = wildcmp("main.c", "ma********************************d");
+    r = wildcmp("main.c", "ma********************************c");
     printf("%d\n", r);
     r = wildcmp("main.c", "*");
     printf("%d\n", r);
