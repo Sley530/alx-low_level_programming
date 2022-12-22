@@ -8,7 +8,9 @@ In addition, I learned some data types in C and their corresponding size by usin
 
 - The different tasks required for this project are listed below.
 
+
 # Tasks
+
 - 0-preprocessor
 - 1-compiler
 - 2-assembler
@@ -17,6 +19,8 @@ In addition, I learned some data types in C and their corresponding size by usin
 - 5-printf.c
 - 6-size.c
 
+
 # Advanced Tasks
+
 - 100-intel
 - 101-quote
