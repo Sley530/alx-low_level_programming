@@ -4,6 +4,7 @@
  * main - Starting point for the program execution
  *
  * Description: Prints with a newline the above string
+ *
  * Return: Always return 0 (Success)
  */
 
