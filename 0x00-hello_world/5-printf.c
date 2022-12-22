@@ -3,7 +3,7 @@
 /**
  * main - Starting point for the program execution
  *
- * Description: Prints with a newline the above string
+ * Description: Prints with a newline the below string
  *
  * Return: Always return 0 (Success)
  */
