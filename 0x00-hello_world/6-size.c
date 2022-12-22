@@ -4,22 +4,23 @@
  * main - Starting point for the program execution
  *
  * Description: prints the size of various types on a computer
+ * 
  * Return: Always return 0 (Success)
  */
 
 int main(void)
 {
-	char acharacter;
-	int ainteger;
-	long along;
-	long long alonglong;
-	float afloat;
+	char character_var;
+	int integer_var;
+	long long_var;
+	long long longlong_var;
+	float float_var;
 
-	printf("Size of a char: %lu byte(s)\n", sizeof(acharacter));
-	printf("Size of an int: %lu byte(s)\n", sizeof(ainteger));
-	printf("Size of a long int: %lu byte(s)\n", sizeof(along));
-	printf("Size of a long long int: %lu byte(s)\n", sizeof(alonglong));
-	printf("Size of a float: %lu byte(s)\n", sizeof(afloat));
+	printf("Size of a char: %c byte(s)\n", sizeof(character_var));
+	printf("Size of an int: %d byte(s)\n", sizeof(integer_var));
+	printf("Size of a long int: %ld byte(s)\n", sizeof(long_var));
+	printf("Size of a long long int: %lld byte(s)\n", sizeof(longlong_var));
+	printf("Size of a float: %f byte(s)\n", sizeof(float_var));
 
 	return (0);
 }
