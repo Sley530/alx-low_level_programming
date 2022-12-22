@@ -16,11 +16,11 @@ int main(void)
 	long long longlong_var;
 	float float_var;
 
-	printf("Size of a char: %c byte(s)\n", sizeof(character_var));
+	printf("Size of a char: %d byte(s)\n", sizeof(character_var));
 	printf("Size of an int: %d byte(s)\n", sizeof(integer_var));
-	printf("Size of a long int: %ld byte(s)\n", sizeof(long_var));
-	printf("Size of a long long int: %lld byte(s)\n", sizeof(longlong_var));
-	printf("Size of a float: %f byte(s)\n", sizeof(float_var));
+	printf("Size of a long int: %d byte(s)\n", sizeof(long_var));
+	printf("Size of a long long int: %d byte(s)\n", sizeof(longlong_var));
+	printf("Size of a float: %d byte(s)\n", sizeof(float_var));
 
 	return (0);
 }
