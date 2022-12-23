@@ -5,7 +5,7 @@
  *
  * Description: This will prints alphabetic characters
  *
- * Return Value - 0 if successful
+ * Return - 0 if successful
  *
  */
 
@@ -13,13 +13,13 @@ int main(void)
 {
 	char letter = 'a';
 
-	while(letter <= 'z')
+	while (letter <= 'z')
 	{
 		putchar(letter);
 		letter++;
 		continue;
-		putchar('\n');
+		putchar(' ');
 	}
-
+	
 	return (0);
 }
