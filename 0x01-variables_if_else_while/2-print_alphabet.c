@@ -5,7 +5,7 @@
  *
  * Description: This will prints alphabetic characters
  *
- * Return - 0 if successful
+ * Return: 0 if successful
  *
  */
 
@@ -17,9 +17,10 @@ int main(void)
 	{
 		putchar(letter);
 		letter++;
-		continue;
-		putchar(' ');
+
+		if (letter > 'z')
+			putchar(' ');	
 	}
-	
+
 	return (0);
 }
