@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point of the code
+ * main - Starting point of the program execution
  *
  * Description: printing of alphebets in lower and uppercase
  *
@@ -9,17 +9,19 @@
  */
 int main(void)
 {
-	char ch;
+	char letter;
 
-	for (ch = 'a'; ch <= 'z'; ch++)
+	for (letter = 'a'; letter <= 'z'; letter++)
 	{
-		putchar(ch);
+		putchar(letter);
 	}
-	for (ch = 'A'; ch <= 'Z'; ch++)
-	{
 
-		putchar(ch);
+	for (letter = 'A'; letter <= 'Z'; letter++)
+	{
+		putchar(letter);
 	}
+
 	putchar('\n');
+
 	return (0);
 }
