@@ -3,10 +3,11 @@
 /**
  * main - Starting point of the program execution
  *
- * Description: printing of alphebets in lower and uppercase
+ * Description: printing of alphabets in lower and uppercase
  *
  * Return: Always return 0 (Success)
  */
+
 int main(void)
 {
 	char letter;
