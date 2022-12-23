@@ -2,23 +2,23 @@
 
 /**
  * main - Starting point of the program execution
- * 
+ *
  * Description: This will prints alphabetic characters
- * 
+ *
  * Return Value - 0 if successful
- * 
+ *
  */
 
-int main(void) 
+int main(void)
 {
-    char letter = 'a';
+	char letter = 'a';
 
-    while(letter <= 'z')
-    {
-        putchar(letter);
-        letter++;
-		putchar('\n');
-    }
-    
-    return (0);
+	while(letter <= 'z')
+	{
+		putchar(letter);
+		letter++;
+		
+	}
+
+	return (0);
 }
