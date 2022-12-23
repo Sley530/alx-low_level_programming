@@ -1,19 +1,23 @@
 #include <stdio.h>
 
 /**
- * main - Entry point of the code
- *
- * Description: 'a program that prints the alphabet in lowercase
- *
- * Return: Always return 0 (Success)
+ * main - Starting point of the program execution
+ * 
+ * Description: This will prints alphabetic characters
+ * 
+ * Return Value - 0 if successful
+ * 
  */
-int main(void)
+
+main(void) 
 {
-	char c;
+    char letter = 'a';
 
-	for (c = 'a'; c <= 'z'; c++)
-		putchar(c);
-	putchar('\n');
-
-	return (0);
+    while(letter <= 'z')
+    {
+        putchar(letter);
+        letter++;
+    }
+    
+    return (0);
 }
