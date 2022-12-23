@@ -5,7 +5,7 @@
 /**
  * main - Starting point of the program execution.
  *
- * Description: Prints a random value, 
+ * Description: Prints a random value,
  * and determines if it is positive, negative or zero.
  *
  * Return: Always return 0 (Success)
