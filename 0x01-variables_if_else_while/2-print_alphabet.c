@@ -17,10 +17,9 @@ int main(void)
 	{
 		putchar(letter);
 		letter++;
-
-		if (letter > 'z')
-			putchar('\n');
 	}
+	
+	putchar('\n');
 
 	return (0);
 }
