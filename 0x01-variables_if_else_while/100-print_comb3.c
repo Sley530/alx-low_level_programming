@@ -10,8 +10,8 @@
 
 int main(void)
 {
-	int tens;
-	int ones;
+	int ten;
+	int unit;
 
 	for (tens = 0; tens <= 9; tens++)
 	{
