@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point of all my code
+ * main - Program entry point
  *
  * Description: prints all possible different combinations of two digits
  *
- * Return: Always return 0 (Success)
+ * Return: if return 0 (Success)
  */
 int main(void)
 {
