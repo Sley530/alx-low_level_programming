@@ -13,13 +13,14 @@ int main(void)
 	int ten;
 	int unit;
 
-	for (ten = 0; ten <= 9; tens++)
+	for (ten = 0; ten <= 9; ten++)
 	{
-		for (ones = tens + 1; ones <= 9; ones++)
+		for (unit = ten + 1; unit <= 9; unit++)
 		{
-			putchar(tens + '0');
-			putchar(ones + '0');
-			if (tens < 8)
+			putchar(ten + '0');
+			putchar(unit + '0');
+
+			if (ten < 8)
 			{
 				putchar(',');
 				putchar(' ');
