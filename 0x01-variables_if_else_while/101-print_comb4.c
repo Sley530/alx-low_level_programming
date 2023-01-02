@@ -1,12 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - Entry of all my code
+ * main - Programm enty point
  *
  * Description: prints all possible different combinations of three digits
  *
- * Return: Always return 0 (Success)
+ * Return: if return 0 (Success)
  */
+
 int main(void)
 {
 	int digit1, digit2, digit3;
