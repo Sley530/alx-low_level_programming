@@ -7,6 +7,7 @@
  *
  * Return: if return 0 (Success)
  */
+
 int main(void)
 {
 	int num1, num2;
