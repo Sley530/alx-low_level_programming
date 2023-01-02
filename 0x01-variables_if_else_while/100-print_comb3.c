@@ -13,7 +13,7 @@ int main(void)
 	int ten;
 	int unit;
 
-	for (tens = 0; tens <= 9; tens++)
+	for (ten = 0; ten <= 9; tens++)
 	{
 		for (ones = tens + 1; ones <= 9; ones++)
 		{
