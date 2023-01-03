@@ -5,8 +5,9 @@
  *
  * Description: prints the alphabet 10 times.
  *
- * Return: Always return 0 (Success)
+ * Return: if return 0 (Success)
  */
+
 void print_alphabet_x10(void)
 {
 	int i, a;
