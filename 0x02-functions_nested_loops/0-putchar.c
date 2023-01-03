@@ -5,6 +5,7 @@
  *
  * Return: if return 0 (Success)
  */
+
 int main(void)
 {
 	int i;
