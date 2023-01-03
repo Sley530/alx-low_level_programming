@@ -15,6 +15,7 @@ int main(void)
 	{
 		_putchar(v[i]);
 	}
+
 	_putchar('\n');
 	return (0);
 }
