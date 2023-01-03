@@ -5,7 +5,7 @@
  *
  * Description: printing the alphabets in lowercase
  *
- * Return: void
+ * Return: void (no value)
  */
 
 void print_alphabet(void)
