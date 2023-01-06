@@ -4,6 +4,7 @@
 * print_triangle - prints a triangle
 * @size: takes in a integer for size of triangle
 */
+
 void print_triangle(int size)
 {
 	int row, column, k;
