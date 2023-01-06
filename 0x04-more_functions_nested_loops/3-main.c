@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - entry point of the code
+ * main - checks the code
  *
  * Return: Always (0) successful.
  */
