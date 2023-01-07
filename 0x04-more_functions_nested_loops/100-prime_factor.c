@@ -4,6 +4,7 @@
 * @void: no argument
 * Return: 0
 */
+
 int main(void)
 {
 	long i, number = 612852475143;
