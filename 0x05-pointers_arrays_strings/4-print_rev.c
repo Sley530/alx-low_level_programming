@@ -4,6 +4,7 @@
  * @s: value taken from main
  * Return: (0)
  */
+
 void print_rev(char *s)
 {
 	int len;
