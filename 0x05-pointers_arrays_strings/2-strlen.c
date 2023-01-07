@@ -5,6 +5,7 @@
 *@s: value to be evaluate.
 *Return: not.
 */
+
 int _strlen(char *s)
 {
 	int len = 0;
