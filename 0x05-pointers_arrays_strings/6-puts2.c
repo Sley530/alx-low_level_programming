@@ -5,6 +5,7 @@
  *@str: value to be evaluate.
  *Return: not.
  */
+
 void puts2(char *str)
 {
 	int len = 0;
