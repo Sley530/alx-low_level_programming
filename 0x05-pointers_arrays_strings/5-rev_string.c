@@ -5,6 +5,7 @@
  *@s: value to be evaluate.
  *Return: not.
  */
+
 void rev_string(char *s)
 {
 	int len = 0;
