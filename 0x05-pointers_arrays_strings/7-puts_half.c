@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "main.h"
+
 /**
  *puts_half - update value.
  *@str: value to be evaluate.
