@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "main.h"
+
 /**
  *puts2 - print pair values.
  *@str: value to be evaluate.
