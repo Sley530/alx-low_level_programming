@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include "main.h"
+
 /**
  *print_array - update value.
  *@a: value to be evaluate.
