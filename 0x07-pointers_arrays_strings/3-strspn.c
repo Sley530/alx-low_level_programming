@@ -6,6 +6,7 @@
  *
  * Return: the number of bytes that compose the length
  */
+
 unsigned int _strspn(char *s, char *accept)
 {
 	int i;
