@@ -5,6 +5,7 @@
  * @m: comparison number
  * Return: 1 if not found sqrroot, else sqrroot
  **/
+
 int sqtRecursive(int n, int m)
 {
 	if (n <= 0)
