@@ -5,7 +5,7 @@
  * @a: 2D array
  * @size: size x size of the square matrix
  *
- * Return: nothing
+ * Return: nothing.
  */
 
 void print_diagsums(int *a, int size)
