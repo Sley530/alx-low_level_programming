@@ -4,7 +4,7 @@
  * @n: input value
  *
  *
- * Return: string
+ * Return: string.
  */
 
 char *cap_string(char *n)
