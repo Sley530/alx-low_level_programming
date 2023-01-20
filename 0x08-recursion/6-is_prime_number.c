@@ -3,7 +3,7 @@
  * sqtRecursive - computes square root recursively
  * @n: given number
  * @m: comparison number
- * Return: 1 if not found sqrroot, else sqrroot
+ * Return: 1 if not found sqrroot, else sqrroot.
  **/
 
 int sqtRecursive(int n, int m)
