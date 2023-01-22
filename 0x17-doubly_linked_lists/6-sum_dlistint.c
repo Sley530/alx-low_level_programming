@@ -5,7 +5,7 @@
  * of a doubly linked list
  *
  * @head: head of the list
- * Return: sum of the data
+ * Return: sum of the data.
  */
 int sum_dlistint(dlistint_t *head)
 {
