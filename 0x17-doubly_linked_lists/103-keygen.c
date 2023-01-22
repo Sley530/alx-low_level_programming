@@ -7,7 +7,7 @@
  *
  * @usrn: username
  * @len: length of username
- * Return: the biggest number
+ * Return: the biggest number.
  */
 int f4(char *usrn, int len)
 {
