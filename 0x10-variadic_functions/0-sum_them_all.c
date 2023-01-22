@@ -1,6 +1,5 @@
 /*
  * File: 0-sum_them_all.c
- * Auth: Tolulope Fakunle
  */
 
 #include "variadic_functions.h"
@@ -14,6 +13,7 @@
  * Return: If n == 0 - 0.
  *         Otherwise - the sum of all parameters.
  */
+
 int sum_them_all(const unsigned int n, ...)
 {
 	va_list nums;
