@@ -6,7 +6,6 @@
  *
  * Return: no return.
  */
-
 void free_listp2(listp_t **head)
 {
 	listp_t *temp;
