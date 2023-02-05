@@ -8,7 +8,6 @@
  * @argv: arguments vector.
  * Return: no return
  */
-
 void error_file(int file_from, int file_to, char *argv[])
 {
 	if (file_from == -1)
