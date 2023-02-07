@@ -12,7 +12,6 @@
  * @n: The number of integers passed to the function.
  * @...: A variable number of numbers to be printed.
  */
-
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
 	va_list nums;
